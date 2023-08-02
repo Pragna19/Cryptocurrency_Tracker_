@@ -49,6 +49,4 @@ Make sure to replace the recipient and sender email addresses in the `msg` objec
 
 Feel free to use and modify this application and script according to your needs. Happy tracking!
 
-## Note
 
-The provided examples are a general guide and may require modifications to suit your specific project requirements. Please ensure to review and update the code and configurations as needed.
