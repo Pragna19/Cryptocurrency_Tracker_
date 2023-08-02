@@ -48,5 +48,7 @@ This script is used to monitor the price of BitCoin (BTC) and send an email aler
 Make sure to replace the recipient and sender email addresses in the `msg` object with your own email addresses before running the script.
 
 Feel free to use and modify this application and script according to your needs. Happy tracking!
-
-
+<br>
+<a href="https://youtu.be/0DhYlJiqrA4">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png" style="width: 250px; height: 60px;"></img>
+</a>
